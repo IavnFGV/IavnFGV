@@ -54,6 +54,26 @@ Telegram bot for learning English vocabulary with TTS support and automated depl
 
 ---
 
+### 🖥️ infra-vps
+
+A small infrastructure repository for running multiple personal services on a single VPS.
+
+It contains the shared pieces that every service needs:
+
+Docker Compose infrastructure
+Nginx reverse proxy
+HTTPS with Let's Encrypt
+WireGuard setup
+service routing
+server bootstrap scripts
+
+The goal is not to build another orchestration platform, but simply to make deploying and rebuilding a server predictable and repeatable.
+
+
+➡️ [Open repository](https://github.com/IavnFGV/infra-vps)
+
+---
+
 📊 **Bookmap-like Heatmap Prototype**
 
 Experimenting with real-time rendering and performance in Java Swing.

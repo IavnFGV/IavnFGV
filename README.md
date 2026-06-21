@@ -14,3 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ivan 👋
+
+Software Engineer interested in building reliable, high-performance backend systems and understanding how complex software works.
+I like digging into complex systems, understanding why they behave the way they do, and turning that knowledge into practical software.
+
+## Interested in
+
+- Backend Architecture
+- Java & JVM
+- Distributed Systems
+- Performance Engineering
+- Low-Latency Systems
+- Linux & Infrastructure
+- Developer Tools
+- Algorithms
+
+## Engineering Principles
+
+- Build things to understand them.
+- Measure before optimizing.
+- Prefer simplicity over cleverness.
+- Keep learning in public.
+
+## What you'll find here
+
+This profile is a collection of experiments, personal projects and engineering notes.
+
+Some repositories are complete applications.
+
+Some are small prototypes created to explore a specific idea.
+
+Together they document how I think, learn and build software.
+
+## Current Projects
+
+📚 **EnglishBot**
+
+Telegram bot for learning English vocabulary with TTS support and automated deployment.
+
+---
+
+📊 **Bookmap-like Heatmap Prototype**
+
+Experimenting with real-time rendering and performance in Java Swing.
+
+---
+
+📝 **Engineering Notes**
+
+A collection of articles about backend engineering, distributed systems and software architecture.

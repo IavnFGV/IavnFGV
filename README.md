@@ -50,7 +50,13 @@ Together they document how I think, learn and build software.
 
 📚 **EnglishBot**
 
-Telegram bot for learning English vocabulary with TTS support and automated deployment.
+A Telegram bot for learning English vocabulary.
+
+The project started as a monolithic application and was later completely redesigned into a cleaner architecture.
+
+The latest version was rewritten using an AI-assisted development workflow with separate coding, architecture and complexity-review stages.
+
+➡️ [Open repository](https://github.com/IavnFGV/EnglishBot-with-agents)
 
 ---
 
